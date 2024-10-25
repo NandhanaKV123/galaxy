@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Playfair Display", serif;
+  }
+
+  @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.heading{
+  font-family: "Dancing Script", cursive;
+  color: rgb(212, 173, 107);
+}
